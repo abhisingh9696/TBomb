@@ -727,7 +727,7 @@ def start(target, counter, delay, ch, cc):
                 else:
                     print('\n\n\tSorry Your Country is Not Supported...')
                     print(
-                        '\t\tPlease Send A Mail To ggspeedx29@gmail.com To Let Us Know...')
+                        '\t\tPlease CONTACT GENOS To Let Us Know...')
                     input('Press Enter To Exit...')
                     exit()
         print(random.choice(colors))
